@@ -122,5 +122,4 @@ FOREIGN KEY (dep_id) REFERENCES SHOP(id)
 on update cascade 
 on delete cascade
 );
-CREATE DATABASE COLLEGE;
-USE COLLEGE;
+
