@@ -124,4 +124,3 @@ on delete cascade
 );
 CREATE DATABASE COLLEGE;
 USE COLLEGE;
-C
